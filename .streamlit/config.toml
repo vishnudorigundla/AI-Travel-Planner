@@ -1,0 +1,18 @@
+# Streamlit app configuration
+
+[server]
+headless = true
+port = 8501          # Custom port for running Streamlit
+enableCORS = false
+enableXsrfProtection = true
+
+[theme]
+base = "light"
+primaryColor = "#1F77B4"
+backgroundColor = "#F5F5F5"
+secondaryBackgroundColor = "#E0E0E0"
+textColor = "#000000"
+font = "sans serif"
+
+[global]
+developmentMode = false
