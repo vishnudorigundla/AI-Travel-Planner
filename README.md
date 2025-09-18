@@ -407,5 +407,21 @@ streamlit run app.py
 Open http://localhost:8501
 
 # outputs
+<img width="1907" height="922" alt="image" src="https://github.com/user-attachments/assets/86d16f58-0f9e-4892-8765-6aa6d99c091c" />
+
+<img width="1595" height="778" alt="image" src="https://github.com/user-attachments/assets/b3a42b98-d77b-4c36-b1d4-08873a4f9867" />
+
+<img width="1884" height="913" alt="image" src="https://github.com/user-attachments/assets/5813435a-4e42-4dc4-ac7c-47b2cbc483db" />
+
+<img width="1876" height="934" alt="image" src="https://github.com/user-attachments/assets/888ff56a-92df-4268-8f6d-f0262eb13740" />
+
+<img width="1755" height="895" alt="image" src="https://github.com/user-attachments/assets/129b6190-0302-4619-844f-64d37f335879" />
+
+<img width="1525" height="824" alt="image" src="https://github.com/user-attachments/assets/3ccf0577-9a1f-4a83-a000-da72f6a0fc03" />
+
+<img width="1687" height="921" alt="image" src="https://github.com/user-attachments/assets/b26eb142-ebc6-4a90-bf08-cd03a7b7cb1f" />
+
+<img width="914" height="919" alt="image" src="https://github.com/user-attachments/assets/b2a2beed-5d25-4879-9903-478c44cbbd11" />
 
 # Result 
+ AI travel planner executed successfully.
